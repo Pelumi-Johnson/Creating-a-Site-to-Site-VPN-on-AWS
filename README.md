@@ -3,7 +3,7 @@
 A hands-on cloud networking project where I built a secure Site-to-Site VPN on AWS, connecting an on-premises network to an Amazon Virtual Private Cloud (VPC) using IPSec tunnels, Virtual Private Gateways, and Customer Gateways.
 
 👉 **Full Lab Report with screenshots and detailed steps:**  
-[Click here to view the complete project documentation] (ADD YOUR GOOGLE DOC LINK HERE)
+[Click here to view the complete project documentation](https://github.com/Pelumi-Johnson/Creating-a-Site-to-Site-VPN-on-AWS/blob/main/Name_%20Pelumi%20Johnson_University%20of%20Maryland%20Global%20Center.pdf)
 
 ---
 
